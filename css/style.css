@@ -97,6 +97,9 @@ header {
 }
 
 #language {
+    width: 6em;
+    height: 1.7em;
+    font-size: 1.2em;
     background-color: #35353500;
     color: #bd7b25;
 }
@@ -104,6 +107,7 @@ header {
 .header2-i {
     color: #8C775C;
     margin: 0 0.4em 0 0.7em;
+    font-size: larger;
 }
 
 /* NAV */
@@ -614,22 +618,22 @@ td {
 
 /* petite forme dorée */
 
-.barre-container {
+.bar-container {
     display: flex;
     align-items: center;
     gap: 10px;
 }
 
-.barre {
+.bar {
     height: 3px;
     background-color: #a47c48;
 }
 
-.petite {
+.little {
     width: 20px;
 }
 
-.grande {
+.big {
     width: 60px;
 }
 
