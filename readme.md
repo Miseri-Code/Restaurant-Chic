@@ -4,7 +4,8 @@
 
 Site statique One Page.
 Ce site a vocation à être utilisé dans mon dossier professionnel pour 
-la compétences "Réaliser des interfaces utilisateur statiques web ou web mobile"
+la compétences "Réaliser des interfaces utilisateur statiques web ou web mobile".
+Il reste le reponsive à faire mais j'aimerais voir avant si tout va bien. 
 
 ## Techs
 
@@ -21,4 +22,4 @@ la compétences "Réaliser des interfaces utilisateur statiques web ou web mobil
 - js
     - script.js
 - img
-    - imgx26
+    - image x 26

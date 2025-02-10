@@ -123,14 +123,14 @@ header {
     z-index: 100;
 }
 
-.sticky-nav-again { /* permet de séparer la nav afin que le logo soit visible sans rendre la nav inutilisable*/
+.sticky-nav-1 { /* permet de séparer la nav afin que le logo soit visible sans rendre la nav inutilisable*/
     position: sticky;
     top: 0%;
     background-color: #f1f1f100; 
     z-index: 10;
 }
 
-.sticky-nav-nav {
+.sticky-nav-2 {
     position: sticky;
     top: 2%;
     background-color: #f1f1f100;
