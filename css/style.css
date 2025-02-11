@@ -145,6 +145,7 @@ header {
     display: flex;
     justify-content: space-around;
     list-style-type: none;
+    margin-left: -2em;
 }
 
 .list-nav li {
